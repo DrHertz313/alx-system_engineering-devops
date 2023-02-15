@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -they -l
+find . -empty -printf "%f\n"
