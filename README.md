@@ -1,1 +1,1 @@
-This is my first Bash Script Project
+1. 0-alias Create a script that creates an alias.
